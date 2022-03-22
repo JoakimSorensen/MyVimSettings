@@ -1,4 +1,4 @@
-" -----------------------------------------------------------------------------
+" ----------------------------------------------------------------------------
 " File: gruvbox.vim
 " Description: Retro groove color scheme for Vim
 " Author: morhetz <morhetz@gmail.com>

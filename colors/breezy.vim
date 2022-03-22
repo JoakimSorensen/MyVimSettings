@@ -89,7 +89,7 @@ hi SpellRare     guibg=NONE    guifg=NONE    gui=undercurl
 
 hi ColorColumn   guibg=#2a2e32 guifg=NONE    gui=NONE
 
-" general ---------------------------------------------------------------------
+" general --------------------------------------------------------------------
 
 hi link Character      String
 hi link Conditional    Statement
